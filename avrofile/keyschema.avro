@@ -1,0 +1,8 @@
+{
+    "type": "record",
+    "name": "MyKey",
+    "namespace": "kafka.example",
+    "fields": [
+        {"name": "id", "type": "int"}
+    ]
+}
